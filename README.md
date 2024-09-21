@@ -36,7 +36,9 @@ In our second page of this report we can identify the amount of sales per produc
 
 
 
-# At the final page of this report we can visualize the distribution of profit, sales and units sold by country and segment.
+
+
+## At the final page of this report we can visualize the distribution of profit, sales and units sold by country and segment.
 
 
 
